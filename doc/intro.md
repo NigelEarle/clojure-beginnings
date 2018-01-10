@@ -1,3 +1,3 @@
-# Introduction to clojure-noob
+# Introduction to clojure-beginnings
 
 TODO: write [great documentation](http://jacobian.org/writing/what-to-write/)
